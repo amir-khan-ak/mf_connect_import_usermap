@@ -23,4 +23,4 @@ cd C:\importUsermaps
 C:\importUsermaps>python importUserMaps.py "http://localhost:8081" "Administrator:Administrator:Micro Focus Connect" "C:\Users\khanamir\Documents\import_usermaps.xlsx"
 
 # Short Demo Video:
-https://youtu.be/nY6ZmSBcmCs
+https://youtu.be/zCMGGp2Svk0
