@@ -15,7 +15,7 @@ python importUserMaps.py <url> <credentials> <path_to_excel_file_with_users.xls>
 
 # Parameters
 - <connect_url> Micro Focus Connect URL in the exact format as follow: "http://serverhost:port".
-- <credentials> Credentials for MF Connect in the following format: <connect_user>:<connect_password>:<connect_authenticator>. 
+- <connect_credentials> Credentials for MF Connect in the following format: <connect_user>:<connect_password>:<connect_authenticator>. 
 - <path_to_excel_file_with_users.xls> the full path to the upload excel containing the users.
 
 # Example: 
